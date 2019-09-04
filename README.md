@@ -19,6 +19,7 @@ project-3 from the react repository.
 Create a react application that uses the library: react-router-dom in order to add navigation to your application.
 
 Repo: https://github.com/morsning/react.git
+
 The project we want to replicate from within this repo is the one in folder: project-3
 
 * Step 1.
@@ -60,6 +61,7 @@ If you are finished early with exercise 1 you can move on to exercise 2 and 3
 ## Exercise 2
 
 Repo: https://github.com/morsning/nodejs-express-react.git
+
 Exact folder: react-get-from-api
 
 Through this exercise we want to practice our understanding of separating our application into a back-end and front-end communicating through an API
@@ -75,4 +77,5 @@ In the Express folder we start the server through the command: node app.js
 This exercise is almost identical to exercise 2, however in addition to getting data from the server through a get request we are posting data to the server through a post request. In addition to just replicating this project you can try adding a couple of additional endpoints to your express application, and using these endpoints to post or get data from your React application. 
 
 Repo: https://github.com/morsning/nodejs-express-react.git
+
 Exact folder: react-post-to-api
